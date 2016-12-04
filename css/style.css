@@ -17,13 +17,13 @@
 }
 
 .blackborder {border-width: 23px;
-border-color: black;
+border-color: pink;
 }
 
 .c1 {border-color: hotpink;
 }
 
-.nav1 {background-color: pink !important; 
+.nav1 {background-color: black !important; 
 }
 
 body {background-color: grey;
