@@ -1,0 +1,46 @@
+.image-size {
+	max-width: 100%;
+}
+
+.myprogress::-webkit-progress-value {
+	background-color: orange !important;
+}
+
+.myprogress2::-webkit-progress-value {
+	background-color: violet !important;
+}
+.myprogress3::-webkit-progress-value {
+	background-color: blue !important;
+}
+.myprogress4::-webkit-progress-value {
+	background-color: yellow !important;
+}
+
+.blackborder {border-width: 23px;
+border-color: black;
+}
+
+.c1 {border-color: hotpink;
+}
+
+.nav1 {background-color: pink !important; 
+}
+
+body {background-color: grey;
+}
+
+.size {font-size: 30px;}
+
+.scroll {
+    max-height: 800px;
+    overflow: scroll ;
+}
+
+.scroll2 {
+    max-height: 1000px;
+    overflow: scroll ;
+}
+.image-size2 {
+	max-width: 90%;
+}
+
