@@ -2,5 +2,24 @@
 }
 
 .image-sizerose {
-	max-width= 100%;
+	min-width: 100%;
+	height: auto;
+}
+
+.card-title {
+	font-size: 10rem;
+	color: black;
+}
+
+.position {
+	position: relative;
+	width: 100%;
+
+}
+
+.imagemiddle {
+	position: absolute;
+	top: 100px;
+	left: 0;
+	width: 100%;
 }
